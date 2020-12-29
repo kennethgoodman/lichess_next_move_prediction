@@ -1,0 +1,3 @@
+[submodule "lichess_downloader_api"]
+	path = lichess_downloader_api
+	url = https://github.com/kennethgoodman/lichess_downloader_api.git
